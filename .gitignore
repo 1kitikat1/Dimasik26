@@ -1,0 +1,9 @@
+logs/
+crash-reports/
+screenshots/
+saves/
+options.txt
+optionsof.txt
+servers.dat
+*.log
+.DS_Store
